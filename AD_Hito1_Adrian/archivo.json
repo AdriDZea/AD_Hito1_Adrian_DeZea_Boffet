@@ -1,0 +1,7 @@
+{personas:[
+{'nombre': "Adrian",'apellido': "DeZea",'edad': 14},
+{'nombre': "Daniel",'apellido': "Lopez",'edad': 17},
+{'nombre': "Alfonso",'apellido': "Gallardo",'edad': 21},
+{'nombre': "Rafael",'apellido': "Fernandez",'edad': 45},
+{'nombre': Blandine,'apellido': Boffet,'edad': 45}
+]}

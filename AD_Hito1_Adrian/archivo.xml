@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><grupo>
+  <persona>
+    <nombre>Adrian</nombre>
+    <apellido>De Zea</apellido>
+    <edad>22</edad>
+  </persona>
+
+  <persona>
+    <nombre>Alfonso</nombre>
+    <apellido>Gallardo</apellido>
+    <edad>22</edad>
+  </persona>
+
+<persona><nombre>David</nombre><apellido>Garcia</apellido><edad>54</edad></persona><persona><nombre>Daniel</nombre><apellido>Lopez</apellido><edad>2</edad></persona><persona><nombre>Rafael</nombre><apellido>De Zea</apellido><edad>45</edad></persona></grupo>
